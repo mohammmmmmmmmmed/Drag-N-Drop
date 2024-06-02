@@ -1,5 +1,5 @@
 {
-  "name": "kanban_taskmanager",
+  "name": "drag-and-drop kanban jira/trello clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
